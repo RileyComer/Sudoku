@@ -1,7 +1,7 @@
 # Sudoku
 
 My sedoku project does 3 seprate things.
-The primary algorithm used for each is stage "Wave Function Collapse".
+The primary algorithm used for each stage is "Wave Function Collapse".
 
 ## Fill Board
 The first stage the ai begins to fill the sudoku board semi randomly using Wave Function Collapse makikng sure not to create an invalid sudoku board.
